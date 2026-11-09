@@ -1,4 +1,4 @@
-# Clustering Algorithms (CSEE / ENGR 8300)
+# Clustering Algorithms (CSEE 8300)
 
 Notebook and slides on clustering algorithms.
 
